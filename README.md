@@ -28,6 +28,11 @@ I'm Youssef Abdalla, a Computer Engineering student based in Türkiye 🇹🇷.
 - Edge detection & contour analysis
 - Image segmentation techniques (Otsu, K-means, CLAHE)
 
+## 📊GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssefhany29&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssefhany29&theme=tokyonight)
+
+
 ## 📚 Currently Learning
 - Machine Learning basics
 - NumPy & Data Analysis
