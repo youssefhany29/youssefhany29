@@ -1,5 +1,5 @@
 # Hey, I'm Youssef Abdalla 👋
-### Computer Engineering Student · Türkiye 🇹🇷
+### Computer Engineering Student · Based in Türkiye 🇹🇷
 
 > *"Building real things, learning the hard way, getting better every day."*
 
